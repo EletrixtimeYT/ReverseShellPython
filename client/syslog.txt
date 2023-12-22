@@ -1,0 +1,2 @@
+[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
